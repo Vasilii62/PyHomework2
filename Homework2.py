@@ -64,7 +64,7 @@
 # seq = [round((1 + 1/i) ** i, 2) for i in range(1, n + 1)]
 # print(f'The sequence: {seq}\nAmount: {round(sum(seq), 2)}')
 
-# Вариант 2 со словарямиЖ
+# Вариант 2 со словарями:
 
 # n = int(input('Enter a number: '))
 # seq = dict()
